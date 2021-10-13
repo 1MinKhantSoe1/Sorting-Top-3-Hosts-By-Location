@@ -1,3 +1,3 @@
 # Sorting-Top-3-Hosts-By-Location
 
-This program searches most expensive host in NYC by using Maximum Algorithm.
+This program sort top 3 hosts by location using insertion sort algorithm.
